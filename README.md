@@ -1,37 +1,89 @@
-<h1 align="center">Hi 👋, I'm YoSiem</h1>
-<h3 align="center">A passionate Game Engineer from Hamburg</h3>
-
-- 🔭 I’m currently working on [Unreal-RPG Project.](https://github.com/YoSiem/RPG-Unreal5)
-
-- 🌱 I’m currently learning **Unreal Engine 5, C++, C# and Networking for Multiplayer Games**
-<h3 align="center">A Little More About Me...</h3>
 <p align="center">
-As a passionate programmer, I thrive on challenges and have a deep love for games. My interest particularly lies in multiplayer games, which I aspire to create in the future. My journey in game development extends beyond Unreal and Unity or Godot; I also write numerous Lua scripts for various MMO games. This diversity in my work reflects my fascination with the mechanics and interactions that multiplayer environments offer. Every project is an opportunity to explore new horizons. My goal is not just to create games, but to craft experiences that bring players together in dynamic and engaging worlds.
+  <img src="https://raw.githubusercontent.com/YoSiem/YoSiem/main/assets/header.svg?v=1" alt="YoSiem header" />
 </p>
 
-
-- 🤝 I collaborated on projects:
-- <a href="https://github.com/YoSiem/CozyTales"><img src="https://github.com/YoSiem/CozyTales/blob/main/img/Logo.png" alt="Cozy Tales - UE5" width="500"></a>
-- <a href="https://github.com/YoSiem/Times-Roulette"><img src="https://img.itch.zone/aW1nLzEzMTQyNTQ0LnBuZw==/original/6q7F8W.png" alt="Times Roulette - Unity" width="500"></a>
-
-  
-- 📫 How to reach me **Discord: YoSiem**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/patryk-olejnik-0b0a20243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patryk-olejnik-0b0a20243" height="30" width="40" /></a>
-<a href="https://discord.gg/4EehDQCtzM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4EehDQCtzM" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=900&center=true&vCenter=true&width=980&lines=Rappelz+Server+Core+%E2%80%A2+Gameplay+Systems+%E2%80%A2+Networking;C%2B%2B+for+performance-critical+systems;C%23+%2F+.NET+for+Windows+tools+and+editors;MSR+Technician+%E2%80%A2+CoDeSys+3.5+%E2%80%A2+WAGO+HVAC" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
+<p align="center">
+  <a href="mailto:patryk.olejnik655@gmail.com"><img src="https://img.shields.io/badge/Email-contact-informational?logo=gmail" /></a>
+  <a href="https://github.com/YoSiem"><img src="https://img.shields.io/badge/GitHub-@YoSiem-black?logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YoSiem&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yosiem&show_icons=true&locale=en&layout=compact" alt="yosiem" /></p>
+---
+
+## About
+I’m **YoSiem** — a **Game Engineer** (graduated with honors) focused on building practical, production-oriented systems.
+My main domain is **Rappelz**: server-side C++ work, scripting integration, and high-leverage tooling in **C#/.NET**.
+
+---
+
+## What I do (high signal)
+### 🎮 Rappelz (primary focus)
+- **C++ server core**: performance, stability, multithreading, gameplay systems, networking.
+- **Lua scripting layer**: faster content iteration (quests / NPC behavior / events).
+- **C#/.NET tooling**: Windows utilities & editors that remove friction from content/live-ops workflows.
+
+### 🏭 Current work
+- **MSR Technician**
+- **CoDeSys 3.5** programming
+- **WAGO HVAC / building automation**
+
+---
+
+## Tech stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,lua,git,github,windows" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CoDeSys-3.5-orange" />
+  <img src="https://img.shields.io/badge/WAGO-HVAC%20Automation-orange" />
+</p>
+
+---
+
+## Featured projects
+### Public
+- **RZEmulator** → https://github.com/YoSiem/RZEmulator
+- **Blaster-Shooter-UE5** → https://github.com/YoSiem/Blaster-Shooter-UE5
+- **CozyTales** → https://github.com/YoSiem/CozyTales
+- **Infested-Godot** → https://github.com/YoSiem/Infested-Godot
+- **Times-Roulette** → https://github.com/YoSiem/Times-Roulette
+- **LocalFlagCalculator (C#/.NET Windows app)** → https://github.com/YoSiem/LocalFlagCalculator
+- **Rappelz-Drop-Tool** → https://github.com/YoSiem/Rappelz-Drop-Tool
+- **YSM-GMTool** → https://github.com/YoSiem/YSM-GMTool
+- **RZ-Documentation** → https://github.com/YoSiem/RZ-Documentation
+
+### Private (🔒 visible only to authorized users)
+- 🔒 **Rappelz-Game-Server** → https://github.com/YoSiem/Rappelz-Game-Server
+- 🔒 **RZ-HeavenSource** → https://github.com/YoSiem/RZ-HeavenSource
+- 🔒 **RZ-ImmortalArcaneScript** → https://github.com/YoSiem/RZ-ImmortalArcaneScript
+- 🔒 **Rappelz-RDB-TOOLS** → https://github.com/YoSiem/Rappelz-RDB-TOOLS
+- 🔒 **Rappelz-Skill-Editor** → https://github.com/YoSiem/Rappelz-Skill-Editor
+- 🔒 **Rappelz-MonsterSkill-Editor** → https://github.com/YoSiem/Rappelz-MonsterSkill-Editor
+
+---
+
+## GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YoSiem&show_icons=true&include_all_commits=true&rank_icon=github" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YoSiem" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoSiem&layout=compact" />
+</p>
+
+---
+
+## Contribution snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoSiem/YoSiem/main/dist/github-contribution-grid-snake-dark.svg" />
+    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YoSiem/YoSiem/main/dist/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
