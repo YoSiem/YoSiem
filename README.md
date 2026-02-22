@@ -46,44 +46,33 @@ My main domain is **Rappelz**: server-side C++ work, scripting integration, and 
 ---
 
 ## Featured projects
-### Public
-- **RZEmulator** → https://github.com/YoSiem/RZEmulator
-- **Blaster-Shooter-UE5** → https://github.com/YoSiem/Blaster-Shooter-UE5
-- **CozyTales** → https://github.com/YoSiem/CozyTales
-- **Infested-Godot** → https://github.com/YoSiem/Infested-Godot
-- **Times-Roulette** → https://github.com/YoSiem/Times-Roulette
-- **LocalFlagCalculator (C#/.NET Windows app)** → https://github.com/YoSiem/LocalFlagCalculator
-- **Rappelz-Drop-Tool** → https://github.com/YoSiem/Rappelz-Drop-Tool
-- **YSM-GMTool** → https://github.com/YoSiem/YSM-GMTool
-- **RZ-Documentation** → https://github.com/YoSiem/RZ-Documentation
 
-### Private (🔒 visible only to authorized users)
-- 🔒 **Rappelz-Game-Server** → https://github.com/YoSiem/Rappelz-Game-Server
-- 🔒 **RZ-HeavenSource** → https://github.com/YoSiem/RZ-HeavenSource
-- 🔒 **RZ-ImmortalArcaneScript** → https://github.com/YoSiem/RZ-ImmortalArcaneScript
-- 🔒 **Rappelz-RDB-TOOLS** → https://github.com/YoSiem/Rappelz-RDB-TOOLS
-- 🔒 **Rappelz-Skill-Editor** → https://github.com/YoSiem/Rappelz-Skill-Editor
-- 🔒 **Rappelz-MonsterSkill-Editor** → https://github.com/YoSiem/Rappelz-MonsterSkill-Editor
+### Rappelz (core)
+- 🔒 **[RZ-GS](https://github.com/YoSiem/Rappelz-Game-Server)** — C++ server core, gameplay systems, stability/perf work
+- 🔒 **[RZ-HS](https://github.com/YoSiem/RZ-HeavenSource)** — server-side source base / systems work
+- 🔒 **[RZ-ImmortalScripts](https://github.com/YoSiem/RZ-ImmortalArcaneScript)** — scripting/content layer
+- **[RZ-Documentation](https://github.com/YoSiem/RZ-Documentation)** — public docs/notes generated from ai
 
+### Tools (C# / .NET)
+- **[LocalFlagCalculator](https://github.com/YoSiem/LocalFlagCalculator)** — Windows app / utilities (.NET)
+- **[YSM-GMTool](https://github.com/YoSiem/YSM-GMTool)** — GM/admin tooling
+- **[Rappelz-Drop-Tool](https://github.com/YoSiem/Rappelz-Drop-Tool)** — lightweight helper tool
+- 🔒 **[Rappelz-RDB-TOOLS](https://github.com/YoSiem/Rappelz-RDB-TOOLS)** — RDB/tooling suite
+- 🔒 **[Rappelz-Skill-Editor](https://github.com/YoSiem/Rappelz-Skill-Editor)** — editor tooling
+- 🔒 **[Rappelz-MonsterSkill-Editor](https://github.com/YoSiem/Rappelz-MonsterSkill-Editor)** — editor tooling
+
+### Game / Engine projects
+- **[Blaster-Shooter-UE5](https://github.com/YoSiem/Blaster-Shooter-UE5)** — Unreal Engine 5 project
+- **[CozyTales](https://github.com/YoSiem/CozyTales)** — game project
+- **[Infested-Godot](https://github.com/YoSiem/Infested-Godot)** — Godot project
+- **[Times-Roulette](https://github.com/YoSiem/Times-Roulette)** — game prototype
 ---
 
 ## GitHub stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoSiem&show_icons=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://streak-stats.demolab.com?user=YoSiem&theme=transparent&hide_border=true" alt="streak" />
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YoSiem" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoSiem&layout=compact" />
-</p>
+
+
 
 ---
-
-## Contribution snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YoSiem/YoSiem/main/dist/github-contribution-grid-snake-dark.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/YoSiem/YoSiem/main/dist/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
